@@ -135,4 +135,4 @@ ro.config.avoid_gfx_accel=true
 
 # Cpu Model
 PRODUCT_PROPERTY_OVERRIDES += \
-ro.processor.model = sm8250
+ro.processor.model = SM8250
