@@ -449,7 +449,7 @@
       "PowerHint": "LAUNCH",
       "Node": "TASchedtuneBoost",
       "Duration": 1000,
-      "Value": "30"
+      "Value": "1"
     },
     {
       "PowerHint": "LAUNCH",
