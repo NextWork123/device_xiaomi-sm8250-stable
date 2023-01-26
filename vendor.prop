@@ -205,9 +205,6 @@ drm.service.enabled=true
 # Fingerprint
 persist.vendor.qfp=false
 
-# FRP
-ro.frp.pst=/dev/block/bootdevice/by-name/frp
-
 # FM
 vendor.hw.fm.init=0
 
